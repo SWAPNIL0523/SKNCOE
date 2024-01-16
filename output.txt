@@ -1,0 +1,21 @@
+Enter the choice :
+1
+Enter the value of a and b
+3
+4
+Length of rectangle: 3breadth of rectangle: 4
+The area of rectangle is:12
+Enter the choice :
+2
+Enter the value of a and b
+
+8
+8
+Base of triangle: 8height of triangle: 8
+The area of triangle is:32.0
+Enter the choice :
+3
+exit
+Enter the choice :
+4
+wrong choice
